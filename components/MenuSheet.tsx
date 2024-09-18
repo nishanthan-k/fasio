@@ -1,6 +1,6 @@
 "use client"
 
-import MenuBar from '@/assets/icons/menuBar.webp'
+import MenuBar from '@/assets/icons/svg/menuBar.svg'
 import { Button } from "@/components/ui/button"
 import {
   Sheet,

@@ -2,9 +2,9 @@ import React from 'react'
 import Logo from './Logo';
 import { Menu } from './NavigationMenu';
 import { SearchInput } from './ui/SearchInput';
-import CartIcon from '@/assets/icons/cart.webp';
-import UserIcon from '@/assets/icons/profile.webp';
-import SearchIcon from '@/assets/icons/searchDark.webp'
+import CartIcon from '@/assets/icons/svg/cart.svg';
+import UserIcon from '@/assets/icons/svg/profile.svg';
+import SearchIcon from '@/assets/icons/svg/searchDark.svg'
 import Image from 'next/image';
 import { MenuSheet } from './MenuSheet';
 

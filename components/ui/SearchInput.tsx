@@ -1,5 +1,5 @@
 import * as React from "react";
-import SearchIcon from '@/assets/icons/searchLight.webp';
+import SearchIcon from '@/assets/icons/svg/searchLight.svg'
 import Image from "next/image";
 import { cn } from "@/lib/utils";
 

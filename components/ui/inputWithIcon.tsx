@@ -1,7 +1,7 @@
 import React from 'react'
 // import { Input as ShadcnInput } from './input';
 import Image from 'next/image';
-import SearchIcon from '@/assets/icons/searchLight.webp';
+import SearchIcon from '@/assets/icons/svg/searchLight.svg';
 import { cn } from '@/lib/utils';
 
 const InputIcon = () => {
