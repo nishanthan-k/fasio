@@ -9,7 +9,7 @@ const NewArrival = () => {
         New Arrival
       </p>
 
-      <div className='w-5/6 flex justify-between gap-5 px-5 overflow-scroll'>
+      <div className='w-5/6 flex justify-between gap-5 px-5 overflow-scroll noScrollBar'>
         {products.map((data) => (
           <ProductCard
             key={data.name}

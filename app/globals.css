@@ -118,3 +118,13 @@ body {
     width: 20px;
   }
 }
+
+.noScrollBar {
+  overflow: -moz-scrollbars-none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.noScrollBar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Opera */
+}
