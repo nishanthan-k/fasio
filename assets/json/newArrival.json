@@ -1,0 +1,26 @@
+[
+  {
+    "name": "T-Shirt With Tape Details",
+    "ratings": 4,
+    "price": 400,
+    "img": "https://i.imgur.com/CC2XT2X.png"
+  },  
+  {
+    "name": "Skinny Fit Jeans",
+    "ratings": 4,
+    "price": 400,
+    "img": "https://i.imgur.com/jo2AVDQ.png"
+  },  
+  {
+    "name": "Checkered Shirt",
+    "ratings": 4,
+    "price": 400,
+    "img": "https://i.imgur.com/nN7MYHB.png"
+  },  
+  {
+    "name": "Sleeve Striped T-Shirt",
+    "ratings": 4,
+    "price": 400,
+    "img": "https://i.imgur.com/xNoMRWa.png"
+  }
+]
