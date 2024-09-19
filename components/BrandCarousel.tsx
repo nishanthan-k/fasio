@@ -42,7 +42,7 @@ const reviews = [
 
 export function BrandCarousel() {
   return (
-    <section className="flex flex-wrap justify-center md:justify-evenly items-center gap-6 p-4 h-20 md:h-32 bg-black">
+    <section className="flex flex-wrap justify-center md:justify-evenly items-center gap-6 p-4 h-24 md:h-32 bg-black">
       {reviews.map((data) => (
         data.username === 'zara' ? (
           <Image 
