@@ -14,7 +14,7 @@ export function ProductCard(props: ProductCardProps) {
       <div className="p-2 flex flex-col gap-1">
         <p>{name}</p>
         <p className="flex gap-1">
-          {Array.from({ length: ratings }).map((_, index) => (
+          {Array.from({ length: ratings ?? 0 }).map((_, index) => (
             <span key={index}>
               <Image src={star} width={16} height={16} alt="star" />
             </span>
