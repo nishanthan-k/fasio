@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: "FASIO",
   description: "The door to fashion",
   icons: {
-    icon: './logo.png'
+    icon: '/logo.png'
   }
 };
 
