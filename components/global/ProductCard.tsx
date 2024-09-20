@@ -7,7 +7,7 @@ export function ProductCard(props: ProductCardProps) {
   const { img, name, price, ratings } = props;
 
   return (
-    <div className="w-[200px] flex-shrink-0 p-0">
+    <div className="w-[200px] flex-shrink-0 p-0 cursor-pointer select-none">
       <div className="p-0">
         {img && <Image src={img} alt={name} width={200} height={200} />}
       </div>

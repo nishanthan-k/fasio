@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Vertical striped shirt",
+    "ratings": 4,
+    "price": 400,
+    "img": "https://i.imgur.com/umJwrcn.png"
+  },  
+  {
+    "name": "Courage Graphic T-Shirt",
+    "ratings": 4,
+    "price": 400,
+    "img": "https://i.imgur.com/7kdF59s.png"
+  },  
+  {
+    "name": "Loose fit bermuda shorts",
+    "ratings": 4,
+    "price": 400,
+    "img": "https://i.imgur.com/XyFUUWF.png"
+  },  
+  {
+    "name": "Faded skinny jeans",
+    "ratings": 4,
+    "price": 400,
+    "img": "https://i.imgur.com/kMxmrtq.png"
+  }
+]
