@@ -1,12 +1,12 @@
 import React from 'react';
-import products from '@/assets/json/newArrival.json';
+import products from '@/assets/json/topSelling.json';
 import { ProductCard } from './global/ProductCard';
 
-const NewArrival = () => {
+const TopSelling = () => {
   return (
     <section className='py-5 mt-4 flex flex-col items-center gap-6'>
       <p className='text-2xl md:text-3xl font-extrabold uppercase flexCenter'>
-        New Arrival
+        Top Selling
       </p>
 
       <div className='w-5/6 flex justify-between gap-5 px-5 overflow-scroll noScrollBar'>
@@ -26,4 +26,4 @@ const NewArrival = () => {
   )
 }
 
-export default NewArrival;
+export default TopSelling;
