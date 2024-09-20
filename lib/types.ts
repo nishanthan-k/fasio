@@ -4,3 +4,10 @@ export interface ProductCardProps {
   ratings?: number,
   price: number,
 }
+
+export interface InputIconProps {
+  type?: string,
+  placeholder?: string,
+  onChange?: () => void,
+  icon: React.ReactElement
+}
