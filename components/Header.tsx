@@ -10,7 +10,7 @@ import { MenuSheet } from './MenuSheet';
 
 const Header = () => {
   return (
-    <header className='shadow-sm p-4 md:px-8 md:py-4 flex items-center md:flexCenter md:gap-8 bg-white'>
+    <header className='shadow-sm p-2 md:px-8 md:py-4 flex items-center md:flexCenter md:gap-8 bg-white'>
       <div className='md:hidden iconButton'>
         <MenuSheet />
       </div>

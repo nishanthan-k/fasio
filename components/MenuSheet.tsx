@@ -22,7 +22,7 @@ export function MenuSheet() {
     <div className="pr-4">
       <Sheet>
         <SheetTrigger asChild>
-          <Image src={MenuBar} width={12} height={12} alt='icon' priority style={{ width: '24px' }} />
+          <Image src={MenuBar} width={12} height={12} alt='icon' priority style={{ width: '20px' }} />
         </SheetTrigger>
         <SheetContent side="left" className='bg-white'>
           <div className="grid gap-4 py-4">
