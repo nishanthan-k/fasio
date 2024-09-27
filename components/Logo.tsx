@@ -2,7 +2,7 @@ import React from 'react'
 
 const Logo = () => {
   return (
-    <span className='text-3xl sm:text-2xl font-bold cursor-pointer'>FASIO</span>
+    <span className='text-2xl font-bold cursor-pointer'>FASIO</span>
   )
 }
 
