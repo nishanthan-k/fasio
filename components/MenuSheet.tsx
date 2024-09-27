@@ -19,10 +19,10 @@ export function MenuSheet() {
   const menuList = ["Link 1", "Link 2", "Link 3", "Link 4"];
   
   return (
-    <div className="grid grid-cols-2 gap-2">
+    <div className="pr-4">
       <Sheet>
         <SheetTrigger asChild>
-          <Image src={MenuBar} width={12} height={12} alt='icon' priority />
+          <Image src={MenuBar} width={12} height={12} alt='icon' priority style={{ width: '24px' }} />
         </SheetTrigger>
         <SheetContent side="left" className='bg-white'>
           <div className="grid gap-4 py-4">
